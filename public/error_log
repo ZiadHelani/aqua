@@ -1,0 +1,2 @@
+[23-Mar-2023 08:05:28 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\App as App because the name is already in use in /home/holooltechtest/aqua-care.test-holooltech.com/app/Http/Controllers/WebsiteController.php on line 44
+[23-Mar-2023 10:20:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/holooltechtest/aqua-care.test-holooltech.com/app/Http/Controllers/WebsiteController.php on line 93
